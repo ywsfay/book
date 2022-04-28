@@ -92,17 +92,7 @@ public class DeleteUser {
 		});
 		
 		
-		f.add(panel1);
-		f.add(panel2);
-		f.add(panel5);
-		f.add(label);
-		
-		textname.setOpaque(false);
-		panel1.setOpaque(false);
-		panel2.setOpaque(false);
-		panel5.setOpaque(false);
-		
-		f.setVisible(true);
+
 	}
 }
 
